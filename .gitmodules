@@ -1,0 +1,3 @@
+[submodule "submodules-training-two"]
+	path = submodules-training-two
+	url = git@github.com:EnoF/submodules-training-two.git
