@@ -1,0 +1,3 @@
+[submodule "submodules-training-one"]
+	path = submodules-training-one
+	url = https://github.com/noomh/submodules-training-one.git
